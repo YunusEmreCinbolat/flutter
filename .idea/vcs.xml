@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/column_and_row" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mutlu_bayramlar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shared_pref_sample" vcs="Git" />
+  </component>
+</project>
